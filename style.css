@@ -467,13 +467,13 @@ font-size: 1vw;
         margin-top: 100px;
         display: flex;
         width: 100vw;
-        height: 15vh;
+        height: 30vh;
         align-items: center;
         justify-content: center;
     }
     #ele1 { 
         width: 70%;
-        height: 15vh;
+        height: 30vh;
         border: 1px solid #dadada;
     }
      #ele1 h1{
@@ -483,7 +483,7 @@ font-size: 1vw;
     }
     #ele2{
     
-        height: 15vh;
+        height:30vh;
         width: 40%;
     }
     #ele2 h1
