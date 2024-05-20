@@ -64,7 +64,7 @@ body{
 }
 #nav-menu-cnt{
     display: flex;
-    gap: 100px;
+    justify-content: space-between;
 }
 #nav-menu h1{
     text-transform: uppercase;
@@ -423,11 +423,11 @@ font-size: 1vw;
 
     }
     #nav-menu h1{
-        font-size: 60px;
+        font-size: 40px;
         text-align: center;
     }
     #nav-menu h2{
-        font-size: 35px;
+        font-size: 15px;
     }
     #page1 h2{
         font-size: 20px;
